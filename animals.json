@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Scotish"
+    },
+    {
+        "id": 2,
+        "name": "British"
+    },
+    {
+        "id": 3,
+        "name": "Samoyed"
+    },
+    {
+        "id": 4,
+        "name": "Golden Retriever"
+    },
+    {
+        "id": 5,
+        "name": "Japanese Fish"
+    }
+]
