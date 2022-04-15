@@ -1,22 +1,27 @@
 [
     {
         "id": 1,
-        "name": "Scotish"
+        "name": "Scotish",
+        "image": "https://raw.githubusercontent.com/wingsofgod/habit-mock-data/main/images/scotish.jpg"
     },
     {
         "id": 2,
-        "name": "British"
+        "name": "British",
+        "image": "https://raw.githubusercontent.com/wingsofgod/habit-mock-data/main/images/british.jpg"
     },
     {
         "id": 3,
-        "name": "Samoyed"
+        "name": "Samoyed",
+        "image": "https://raw.githubusercontent.com/wingsofgod/habit-mock-data/main/images/samoyed.jpg"
     },
     {
         "id": 4,
-        "name": "Golden Retriever"
+        "name": "Golden Retriever",
+        "image": "https://raw.githubusercontent.com/wingsofgod/habit-mock-data/main/images/golden-retriever.jpg"
     },
     {
         "id": 5,
-        "name": "Japanese Fish"
+        "name": "Japanese Fish",
+        "image": "https://raw.githubusercontent.com/wingsofgod/habit-mock-data/main/images/japon-baligi.jpg"
     }
 ]

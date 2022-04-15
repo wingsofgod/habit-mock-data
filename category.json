@@ -2,22 +2,26 @@
     {
         "id": 1,
         "name": "Dog",
-        "image": "./images/dog.jpg"
+        "image": "https://raw.githubusercontent.com/wingsofgod/habit-mock-data/main/images/dog.jpg"
     },
     {
         "id": 2,
-        "name": "Cat"
+        "name": "Cat",
+        "image": "https://raw.githubusercontent.com/wingsofgod/habit-mock-data/main/images/cat.jpg"
     },
     {
         "id": 3,
-        "name": "Bird"
+        "name": "Bird",
+        "image": "https://raw.githubusercontent.com/wingsofgod/habit-mock-data/main/images/bird.jpg"
     },
     {
         "id": 4,
-        "name": "Horse"
+        "name": "Horse",
+        "image": "https://raw.githubusercontent.com/wingsofgod/habit-mock-data/main/images/horse.jpg"
     },
     {
         "id": 5,
-        "name": "Fish"
+        "name": "Fish",
+        "image": "https://raw.githubusercontent.com/wingsofgod/habit-mock-data/main/images/fish.jpg"
     }
 ]
